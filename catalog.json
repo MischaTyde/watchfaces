@@ -1,0 +1,340 @@
+{
+ "version": 1,
+ "faces": [
+  {
+   "pkg": "de.tyde.neopulse",
+   "title": "Neo Premium",
+   "image": "thumbs/neopulse.webp",
+   "live": true
+  },
+  {
+   "pkg": "de.tyde.zidz",
+   "title": "Back to the Future",
+   "image": "thumbs/zidz.webp",
+   "live": true
+  },
+  {
+   "pkg": "de.tyde.techhud",
+   "title": "Tech HUD",
+   "image": "thumbs/techhud.webp",
+   "live": true
+  },
+  {
+   "pkg": "de.tyde.jarvis",
+   "title": "JARVIS",
+   "image": "thumbs/jarvis.webp",
+   "live": true
+  },
+  {
+   "pkg": "de.tyde.nixie",
+   "title": "Nixie Glow Retro",
+   "image": "thumbs/nixie.webp",
+   "live": true
+  },
+  {
+   "pkg": "de.tyde.halloween",
+   "title": "Spooky Time",
+   "image": "thumbs/halloween.webp",
+   "live": true
+  },
+  {
+   "pkg": "de.tyde.fallout2",
+   "title": "Fallout",
+   "image": "thumbs/fallout2.webp",
+   "live": true
+  },
+  {
+   "pkg": "de.tyde.matrix",
+   "title": "Matrix",
+   "image": "thumbs/matrix.webp",
+   "live": true
+  },
+  {
+   "pkg": "de.tyde.avatar",
+   "title": "Pandora",
+   "image": "thumbs/avatar.webp",
+   "live": true
+  },
+  {
+   "pkg": "de.tyde.radar",
+   "title": "Radar Flight",
+   "image": "thumbs/radar.webp",
+   "live": true
+  },
+  {
+   "pkg": "de.tyde.duesseldorf",
+   "title": "Düsseldorf",
+   "image": "thumbs/duesseldorf.webp",
+   "live": true
+  },
+  {
+   "pkg": "de.tyde.wickedwatchface",
+   "title": "Wicked",
+   "image": "thumbs/wickedwatchface.webp",
+   "live": true
+  },
+  {
+   "pkg": "de.tyde.minimalpro",
+   "title": "Minimal Pro",
+   "image": "thumbs/minimalpro.webp",
+   "live": true
+  },
+  {
+   "pkg": "de.tyde.fallout1",
+   "title": "Fallout Classic",
+   "image": "thumbs/fallout1.webp",
+   "live": true
+  },
+  {
+   "pkg": "de.tyde.skull",
+   "title": "Simple Skull",
+   "image": "thumbs/skull.webp",
+   "live": true
+  },
+  {
+   "pkg": "de.tyde.wordclock",
+   "title": "Wortuhr",
+   "image": "thumbs/wordclock.webp",
+   "live": true
+  },
+  {
+   "pkg": "de.tyde.desertspice",
+   "title": "Desert Spice Sci-Fi",
+   "image": "thumbs/desertspice.webp",
+   "live": true,
+   "titles": {
+    "de": "Desert Spice Sci-Fi"
+   }
+  },
+  {
+   "pkg": "de.tyde.hyperspace",
+   "title": "Hyperspace Starfighter",
+   "image": "thumbs/hyperspace.webp",
+   "live": true,
+   "titles": {
+    "de": "Hyperspace Raumjäger"
+   }
+  },
+  {
+   "pkg": "de.tyde.singularity",
+   "title": "Singularity Black Hole",
+   "image": "thumbs/singularity.webp",
+   "live": true,
+   "titles": {
+    "de": "Singularity Schwarzes Loch"
+   }
+  },
+  {
+   "pkg": "de.tyde.gridracer",
+   "title": "Grid Racer Neon",
+   "image": "thumbs/gridracer.webp",
+   "live": true,
+   "titles": {
+    "de": "Grid Racer Neon"
+   }
+  },
+  {
+   "pkg": "de.tyde.neonnoir",
+   "title": "Neon Noir Cyber City",
+   "image": "thumbs/neonnoir.webp",
+   "live": true,
+   "titles": {
+    "de": "Neon Noir Cyber City"
+   }
+  },
+  {
+   "pkg": "de.tyde.ancientrunes",
+   "title": "Ancient Runes Fantasy",
+   "image": "thumbs/ancientrunes.webp",
+   "live": true,
+   "titles": {
+    "de": "Ancient Runes Fantasy Uhr"
+   }
+  },
+  {
+   "pkg": "de.tyde.goldentree",
+   "title": "Golden Tree Dark Fantasy",
+   "image": "thumbs/goldentree.webp",
+   "live": true,
+   "titles": {
+    "de": "Golden Tree Dark Fantasy"
+   }
+  },
+  {
+   "pkg": "de.tyde.cyborgvision",
+   "title": "Cyborg Vision Red HUD",
+   "image": "thumbs/cyborgvision.webp",
+   "live": true,
+   "titles": {
+    "de": "Cyborg Vision Roter HUD"
+   }
+  },
+  {
+   "pkg": "de.tyde.secretagent",
+   "title": "Secret Agent Luxury",
+   "image": "thumbs/secretagent.webp",
+   "live": true,
+   "titles": {
+    "de": "Secret Agent Luxus"
+   }
+  },
+  {
+   "pkg": "de.tyde.blockworld",
+   "title": "Block World Pixel Craft",
+   "image": "thumbs/blockworld.webp",
+   "live": true,
+   "titles": {
+    "de": "Block World Pixel"
+   }
+  },
+  {
+   "pkg": "de.tyde.frostflake",
+   "title": "Frost Flake Winter",
+   "image": "thumbs/frostflake.webp",
+   "live": true,
+   "titles": {
+    "de": "Frost Flake Winter"
+   }
+  },
+  {
+   "pkg": "de.tyde.sunsetcoast",
+   "title": "Sunset Coast Neon",
+   "image": "thumbs/sunsetcoast.webp",
+   "live": false,
+   "titles": {
+    "de": "Sunset Coast Neon"
+   },
+   "new": true
+  },
+  {
+   "pkg": "de.tyde.bioglow",
+   "title": "Bio Glow Alien Jungle",
+   "image": "thumbs/bioglow.webp",
+   "live": false,
+   "titles": {
+    "de": "Bio Glow Alien-Dschungel"
+   },
+   "new": true
+  },
+  {
+   "pkg": "de.tyde.webcity",
+   "title": "Web City Hero",
+   "image": "thumbs/webcity.webp",
+   "live": false,
+   "titles": {
+    "de": "Web City Helden"
+   },
+   "new": true
+  },
+  {
+   "pkg": "de.tyde.plasmablades",
+   "title": "Plasma Blades Duel",
+   "image": "thumbs/plasmablades.webp",
+   "live": false,
+   "titles": {
+    "de": "Plasma Blades Duell"
+   },
+   "new": true
+  },
+  {
+   "pkg": "de.tyde.warpdrive",
+   "title": "Warp Drive Starship",
+   "image": "thumbs/warpdrive.webp",
+   "live": false,
+   "titles": {
+    "de": "Warp Drive Raumschiff"
+   },
+   "new": true
+  },
+  {
+   "pkg": "de.tyde.coderain",
+   "title": "Code Rain Hacker",
+   "image": "thumbs/coderain.webp",
+   "live": false,
+   "titles": {
+    "de": "Code Rain Hacker"
+   },
+   "new": true
+  },
+  {
+   "pkg": "de.tyde.reactorcore",
+   "title": "Reactor Core Hero HUD",
+   "image": "thumbs/reactorcore.webp",
+   "live": false,
+   "titles": {
+    "de": "Reactor Core Helden-HUD"
+   },
+   "new": true
+  },
+  {
+   "pkg": "de.tyde.nightsignal",
+   "title": "Night Signal Dark City",
+   "image": "thumbs/nightsignal.webp",
+   "live": false,
+   "titles": {
+    "de": "Night Signal Dunkle Stadt"
+   },
+   "new": true
+  },
+  {
+   "pkg": "de.tyde.dinovalley",
+   "title": "Dino Valley Jungle",
+   "image": "thumbs/dinovalley.webp",
+   "live": false,
+   "titles": {
+    "de": "Dino Valley Dschungel"
+   },
+   "new": true
+  },
+  {
+   "pkg": "de.tyde.wastelandroad",
+   "title": "Wasteland Chrome Road",
+   "image": "thumbs/wastelandroad.webp",
+   "live": false,
+   "titles": {
+    "de": "Wasteland Chrome Road"
+   },
+   "new": true
+  },
+  {
+   "pkg": "de.tyde.skyace",
+   "title": "Sky Ace Fighter Jet",
+   "image": "thumbs/skyace.webp",
+   "live": false,
+   "titles": {
+    "de": "Sky Ace Kampfjet"
+   },
+   "new": true
+  },
+  {
+   "pkg": "de.tyde.wildfrontier",
+   "title": "Wild Frontier Western",
+   "image": "thumbs/wildfrontier.webp",
+   "live": false,
+   "titles": {
+    "de": "Wild Frontier Western"
+   },
+   "new": true
+  },
+  {
+   "pkg": "de.tyde.brassgear",
+   "title": "Brass Gear Steampunk",
+   "image": "thumbs/brassgear.webp",
+   "live": false,
+   "titles": {
+    "de": "Brass Gear Steampunk"
+   },
+   "new": true
+  },
+  {
+   "pkg": "de.tyde.glitchstreet",
+   "title": "Glitch Street Neon",
+   "image": "thumbs/glitchstreet.webp",
+   "live": false,
+   "titles": {
+    "de": "Glitch Street Neon"
+   },
+   "new": true
+  }
+ ]
+}

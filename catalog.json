@@ -101,100 +101,111 @@
    "pkg": "de.tyde.desertspice",
    "title": "Desert Spice Sci-Fi",
    "image": "thumbs/desertspice.webp",
-   "live": true,
+   "live": false,
    "titles": {
     "de": "Desert Spice Sci-Fi"
-   }
+   },
+   "new": true
   },
   {
    "pkg": "de.tyde.hyperspace",
    "title": "Hyperspace Starfighter",
    "image": "thumbs/hyperspace.webp",
-   "live": true,
+   "live": false,
    "titles": {
     "de": "Hyperspace Raumjäger"
-   }
+   },
+   "new": true
   },
   {
    "pkg": "de.tyde.singularity",
    "title": "Singularity Black Hole",
    "image": "thumbs/singularity.webp",
-   "live": true,
+   "live": false,
    "titles": {
     "de": "Singularity Schwarzes Loch"
-   }
+   },
+   "new": true
   },
   {
    "pkg": "de.tyde.gridracer",
    "title": "Grid Racer Neon",
    "image": "thumbs/gridracer.webp",
-   "live": true,
+   "live": false,
    "titles": {
     "de": "Grid Racer Neon"
-   }
+   },
+   "new": true
   },
   {
    "pkg": "de.tyde.neonnoir",
    "title": "Neon Noir Cyber City",
    "image": "thumbs/neonnoir.webp",
-   "live": true,
+   "live": false,
    "titles": {
     "de": "Neon Noir Cyber City"
-   }
+   },
+   "new": true
   },
   {
    "pkg": "de.tyde.ancientrunes",
    "title": "Ancient Runes Fantasy",
    "image": "thumbs/ancientrunes.webp",
-   "live": true,
+   "live": false,
    "titles": {
     "de": "Ancient Runes Fantasy Uhr"
-   }
+   },
+   "new": true
   },
   {
    "pkg": "de.tyde.goldentree",
    "title": "Golden Tree Dark Fantasy",
    "image": "thumbs/goldentree.webp",
-   "live": true,
+   "live": false,
    "titles": {
     "de": "Golden Tree Dark Fantasy"
-   }
+   },
+   "new": true
   },
   {
    "pkg": "de.tyde.cyborgvision",
    "title": "Cyborg Vision Red HUD",
    "image": "thumbs/cyborgvision.webp",
-   "live": true,
+   "live": false,
    "titles": {
     "de": "Cyborg Vision Roter HUD"
-   }
+   },
+   "new": true
   },
   {
    "pkg": "de.tyde.secretagent",
    "title": "Secret Agent Luxury",
    "image": "thumbs/secretagent.webp",
-   "live": true,
+   "live": false,
    "titles": {
     "de": "Secret Agent Luxus"
-   }
+   },
+   "new": true
   },
   {
    "pkg": "de.tyde.blockworld",
    "title": "Block World Pixel Craft",
    "image": "thumbs/blockworld.webp",
-   "live": true,
+   "live": false,
    "titles": {
     "de": "Block World Pixel"
-   }
+   },
+   "new": true
   },
   {
    "pkg": "de.tyde.frostflake",
    "title": "Frost Flake Winter",
    "image": "thumbs/frostflake.webp",
-   "live": true,
+   "live": false,
    "titles": {
     "de": "Frost Flake Winter"
-   }
+   },
+   "new": true
   },
   {
    "pkg": "de.tyde.sunsetcoast",
